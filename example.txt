@@ -1,1 +1,2 @@
 hi this is first document1
+hi this is first document2
